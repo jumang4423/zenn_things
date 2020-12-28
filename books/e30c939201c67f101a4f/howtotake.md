@@ -1,5 +1,6 @@
 ---
 title: "how to take acid"
+free: true
 ---
 
 ## at least 2 hours on ur tongue

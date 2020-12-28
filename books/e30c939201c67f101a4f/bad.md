@@ -1,5 +1,6 @@
 ---
 title: "trip sitter"
+free: true
 ---
 
 ## remember, this happens to anyone under the influence!

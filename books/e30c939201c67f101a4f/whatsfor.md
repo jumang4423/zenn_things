@@ -1,5 +1,6 @@
 ---
 title: "y we should be on acid"
+free: true
 ---
 
 ## recreational use

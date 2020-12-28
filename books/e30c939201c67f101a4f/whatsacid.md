@@ -1,5 +1,6 @@
 ---
 title: "what is the ACID"
+free: true
 ---
 
 ## one of acid subtances, lsd 

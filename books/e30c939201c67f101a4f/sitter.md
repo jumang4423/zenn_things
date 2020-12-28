@@ -1,5 +1,6 @@
 ---
 title: "trip sitter"
+free: true
 ---
 
 ## with ur actual friend

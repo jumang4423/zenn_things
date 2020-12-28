@@ -1,5 +1,6 @@
 ---
 title: "cleaning ur room"
+free: true
 ---
 
 ## cleaning room definately change ur trip

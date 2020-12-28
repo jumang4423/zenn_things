@@ -1,5 +1,6 @@
 ---
 title: "foods"
+free: true
 ---
 
 ## why do we eat?

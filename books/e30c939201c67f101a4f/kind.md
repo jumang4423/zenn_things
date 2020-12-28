@@ -1,5 +1,6 @@
 ---
 title: "kind of acid"
+free: true
 ---
 
 ## legal(japan)

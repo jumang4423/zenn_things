@@ -1,5 +1,6 @@
 ---
 title: "music u gotta listen to"
+free: true
 ---
 
 ## relaxing music also related to psychedelic

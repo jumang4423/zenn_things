@@ -1,5 +1,6 @@
 ---
 title: "do u trust your substances?"
+free: true
 ---
 
 ## contained substances
