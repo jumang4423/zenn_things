@@ -4,7 +4,7 @@ free: true
 ---
 
 ## cleaning room definately change ur trip
-    make sure everything is completed below before u go trip
+- make sure everything is completed below before u go trip
 
 - ## do not mess ur room
     check there is no...

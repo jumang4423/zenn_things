@@ -4,7 +4,7 @@ free: true
 ---
 
 ## why do we eat?
-    everyday even u depressed, foods were always with u
+- everyday even u depressed, foods were always with u
     we need to know how eating are beautiful thing
     here is my recommend...
 

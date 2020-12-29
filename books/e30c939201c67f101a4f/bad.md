@@ -1,10 +1,10 @@
 ---
-title: "trip sitter"
+title: "bad trip"
 free: true
 ---
 
 ## remember, this happens to anyone under the influence!
-    most of the case, this will be caused by unpleasure trip sitter directions... 
+- most of the case, this will be caused by unpleasure trip sitter directions... 
     or your mental health, so that this happens a lot basically
 
     although its not possible to actually stop being on acid right now,
