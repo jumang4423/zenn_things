@@ -1,7 +1,7 @@
 {
   "name": "zenn",
   "version": "1.0.0",
-  "description": "",
+  "description": "## /books/e30c939201c67f101a4f - acid harm reduction - [URL](https://zenn.dev/jumang4423/books/e30c939201c67f101a4f)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "zenn-cli": "^0.1.66"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumang4423/zenn_things.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jumang4423/zenn_things/issues"
+  },
+  "homepage": "https://github.com/jumang4423/zenn_things#readme"
 }
