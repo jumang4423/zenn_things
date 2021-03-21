@@ -59,4 +59,4 @@ git commit -m "hoge"
 git push origin main
 ```
 
-
+良いgitライフを！
