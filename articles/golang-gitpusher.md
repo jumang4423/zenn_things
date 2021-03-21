@@ -42,11 +42,7 @@ chmod +x install.sh
 ```ls -al``` で.gitフォルダーがあることを確認したら以下のコマンドを使います
 
 ```bash
-gpshr -install . -hooks push
-```
-または
-```bash
-gpshr -install . -hooks commit
+gpshr -install . -hooks <push, commit or checkout>
 ```
 そうすると、どの音声ファイルをpush || commitした時に鳴らすか聞いてくるので、番号を打って設定します
 
